@@ -1,2 +1,2 @@
-# miscellaneous-nlp-projects
+# Miscellaneous NLP Projects
 Repository for small NLP projects
