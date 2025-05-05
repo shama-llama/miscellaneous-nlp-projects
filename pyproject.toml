@@ -1,0 +1,13 @@
+[project]
+name = "miscellaneous-nlp-projects"
+version = "0.1.0"
+description = "Natural language processing projects for CoSc-6252"
+readme = "README.md"
+requires-python = ">=3.12.11"
+dependencies = [
+    "automata-lib[visual]>=9.1.2",
+    "ipykernel>=6.30.0",
+    "pandas>=2.3.1",
+]
+[tool.setuptools]
+py-modules = []
